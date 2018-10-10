@@ -1,0 +1,15 @@
+[package]
+name = "disruptor"
+version = "0.0.1"
+authors = ["airt <airtial@gmail.com>"]
+license = "MIT/Apache-2.0"
+readme = "readme.md"
+documentation = "https://docs.rs/disruptor"
+repository = "https://github.com/airt/disruptor-rs"
+categories = ["data-structures"]
+keywords = ["disruptor", "queue"]
+description = """
+TODO
+"""
+
+[dependencies]
